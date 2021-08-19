@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13150" started-at="2021-08-16T17:00:20Z" finished-at="2021-08-16T17:00:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13150" started-at="2021-08-16T17:00:20Z" finished-at="2021-08-16T17:00:33Z">
+      <class name="org.task.Sample">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.task.Sample@66a3ffec]" name="tc1" duration-ms="9936" started-at="2021-08-16T22:30:20Z" finished-at="2021-08-16T22:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:1, instance:org.task.Sample@66a3ffec]" name="tc2" duration-ms="898" started-at="2021-08-16T22:30:30Z" finished-at="2021-08-16T22:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc4()[pri:2, instance:org.task.Sample@66a3ffec]" name="tc4" duration-ms="132" started-at="2021-08-16T22:30:31Z" finished-at="2021-08-16T22:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="tc3()[pri:3, instance:org.task.Sample@66a3ffec]" name="tc3" duration-ms="150" started-at="2021-08-16T22:30:31Z" finished-at="2021-08-16T22:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="tc5()[pri:4, instance:org.task.Sample@66a3ffec]" name="tc5" duration-ms="119" started-at="2021-08-16T22:30:31Z" finished-at="2021-08-16T22:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="tc7()[pri:5, instance:org.task.Sample@66a3ffec]" name="tc7" duration-ms="111" started-at="2021-08-16T22:30:31Z" finished-at="2021-08-16T22:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="tc9()[pri:6, instance:org.task.Sample@66a3ffec]" name="tc9" duration-ms="133" started-at="2021-08-16T22:30:31Z" finished-at="2021-08-16T22:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9 -->
+        <test-method status="PASS" signature="tc8()[pri:7, instance:org.task.Sample@66a3ffec]" name="tc8" duration-ms="130" started-at="2021-08-16T22:30:31Z" finished-at="2021-08-16T22:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8 -->
+        <test-method status="PASS" signature="tc10()[pri:8, instance:org.task.Sample@66a3ffec]" name="tc10" duration-ms="149" started-at="2021-08-16T22:30:32Z" finished-at="2021-08-16T22:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc10 -->
+        <test-method status="PASS" signature="tc12()[pri:9, instance:org.task.Sample@66a3ffec]" name="tc12" duration-ms="112" started-at="2021-08-16T22:30:32Z" finished-at="2021-08-16T22:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc12 -->
+        <test-method status="PASS" signature="tc11()[pri:10, instance:org.task.Sample@66a3ffec]" name="tc11" duration-ms="117" started-at="2021-08-16T22:30:32Z" finished-at="2021-08-16T22:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc11 -->
+        <test-method status="PASS" signature="tc13()[pri:11, instance:org.task.Sample@66a3ffec]" name="tc13" duration-ms="120" started-at="2021-08-16T22:30:32Z" finished-at="2021-08-16T22:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc13 -->
+        <test-method status="PASS" signature="tc6()[pri:11, instance:org.task.Sample@66a3ffec]" name="tc6" duration-ms="98" started-at="2021-08-16T22:30:32Z" finished-at="2021-08-16T22:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6 -->
+        <test-method status="PASS" signature="tc14()[pri:12, instance:org.task.Sample@66a3ffec]" name="tc14" duration-ms="891" started-at="2021-08-16T22:30:32Z" finished-at="2021-08-16T22:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc14 -->
+      </class> <!-- org.task.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
